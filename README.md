@@ -1,4 +1,4 @@
-# Valentine's Week 💝
+# Cupid's Sparks 💝
 
 A beautiful Flutter application for celebrating Valentine's Week! Share your feelings with custom messages and stunning cards for each day of the week.
 
